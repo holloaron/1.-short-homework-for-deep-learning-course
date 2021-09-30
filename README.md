@@ -1,1 +1,1 @@
-# 1kis-hf
+1. short homework for deep learning course
